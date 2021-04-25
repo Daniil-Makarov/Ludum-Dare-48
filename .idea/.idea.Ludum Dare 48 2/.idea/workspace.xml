@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03183994-a7c2-4f2e-a2df-10d36308bc8c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Lava/LavaEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Pause/Restart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Score/Score.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/TrainingLevelLoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Pause/Pause.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Manage platforms/Assets/Player/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MapGenerator/MapGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Platforms/Regular/Platform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/ExitButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Platforms/Enemies/MoveEnemyPlatform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/PlayButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MapGenerator/PartOfMap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/Record.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Camera/MainCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Pause/ExitMainMenuButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DestroyZone/MoveWithPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Platforms/RotationItself.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/UI/ChooseLevelChangeScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/LoadLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/LevelText/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lava/MoveAlwaysDownEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/MapGenerator/PartOfMap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Platforms/notMovable/DestroyItself.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Pause/Restart.cs" />
+        <option value="$PROJECT_DIR$/Assets/DestroyZone/MoveToPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Camera/MainCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Record.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/PlayButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lava/LavaEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Platforms/RotationItself.cs" />
+        <option value="$PROJECT_DIR$/Assets/MapGenerator/MapGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/DestroyZone/MoveWithPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/ExitMainMenuButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Pause/ExitChooseLevelButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Pause/ExitMainMenuButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/TrainingLevelLoad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Platforms/Regular/Platform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Score/Score.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1reARSinMu1dXZDnHDiowoGPRAw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03183994-a7c2-4f2e-a2df-10d36308bc8c" name="Default Changelist" comment="" />
+      <created>1619326176075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619326176075</updated>
+      <workItem from="1619326214364" duration="27310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="142" width="672" height="678" key="search.everywhere.popup" timestamp="1619337920164">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="431" y="142" width="672" height="678" key="search.everywhere.popup/0.0.1536.821@0.0.1536.821" timestamp="1619337920164" />
+  </component>
+</project>
